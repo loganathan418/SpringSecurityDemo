@@ -1,2 +1,3 @@
 *.classpath
 spring-security-training/target/
+spring-security-training/.settings/
